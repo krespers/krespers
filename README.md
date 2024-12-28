@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm interested in structural engineering, structural and system reliability!
+
+
 <!--
 **krespers/krespers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
