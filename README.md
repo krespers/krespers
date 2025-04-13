@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm interested in structural engineering, structural and system reliability!
+I'm interested in Civil engineering, system reliability!
 
 
 <!--
